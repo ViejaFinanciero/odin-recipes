@@ -1,1 +1,1 @@
-# odin-recipes
+Odin project summing up HTML skills
